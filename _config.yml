@@ -2,7 +2,7 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
+title:               Abhilash John
 tagline:             Frontend Developer and Designer from Chicago.
 url:                 http://abhilashjp.com
 paginate:            1
@@ -17,18 +17,17 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
-  url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  name:              Abhilash John Philip
+  url:               https://twitter.com/abhilashjp
+  email:             abhilashjohn07@gmail.com
 
 # Custom vars
 version:             1.0.0
 github:
   repo:              https://github.com/abhilashjp/theme2
 google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+twitter:             abhilashjp
+github:              abhilashjp           
 
 # Gems
 gems:
