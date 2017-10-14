@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Jami Gibbs
 tagline:             Frontend Developer and Designer from Chicago.
-url:                 http://jamigibbs.com
+url:                 http://abhilashjp.com
 paginate:            1
 baseurl:             ""
 
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/jamigibbs/portfolio
+  repo:              https://github.com/abhilashjp/theme2
 google_analytics:    UA-3363703-15
 twitter:             jamigibbs
 github:              jamigibbs
