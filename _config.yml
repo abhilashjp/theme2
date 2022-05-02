@@ -4,9 +4,9 @@ permalink:           pretty
 # Setup
 title:               Abhilash John Philip
 tagline:             Product Manager from New Delhi.
-url:                 https://abhilashjp.github.io/
+url:                 'https://abhilashjp.github.io/'
 paginate:            1
-baseurl:             ""
+baseurl:             "theme2"
 
 # Assets
 #
